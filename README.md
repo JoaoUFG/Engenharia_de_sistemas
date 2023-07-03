@@ -1,4 +1,4 @@
-# Sound fase inversor for active noise-cancelling 
+# Sound wave inversor for active noise-cancelling 
 
 
 ## Usage
